@@ -19,6 +19,16 @@
       "id": 4,
       "name": "Iron Mqan",
       "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "the flash",
+      "alterEgo": "hank",
+      "id": 5
+    },
+    {
+      "name": "thor",
+      "alterEgo": "kim",
+      "id": 6
     }
   ],
   "friends": [
@@ -35,11 +45,20 @@
       "name": "Rachael Green"
     }
   ],
-  "users": [{ "id": "test@gmail.com", "channelId": "codevolution" }],
+  "users": [
+    {
+      "id": "test@gmail.com",
+      "channelId": "codevolution"
+    }
+  ],
   "channels": [
     {
       "id": "codevolution",
-      "courses": ["react", "vue", "angular"]
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
     }
   ],
   "colors": [
